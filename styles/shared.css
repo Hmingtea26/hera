@@ -1,0 +1,57 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    color: white;
+    background-color: rgb(19, 15, 15);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 370px;
+}
+
+hr {
+    width: 40vw;
+    border-color: rgb(230, 75, 64);
+}
+
+.toggle-button {
+    width: 3rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding-top: 0;
+    padding-bottom: 0;
+    vertical-align: middle;
+}
+
+.toggle-button__bar {
+    width: 100%;
+    height: 0.2rem;
+    background: rgb(255, 255, 255);
+    display: block;
+    margin: 0.6rem 0;
+    border-radius: 50px;
+}
+
+.mobile-nav {
+    display: none;
+}
+
+.social-footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem 0 1rem;
+}
+
+.social-logo {
+    width: 2rem;
+}
+
+.boss-mark {
+    
+    text-align: center;
+}
+

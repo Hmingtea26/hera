@@ -1,0 +1,47 @@
+.logo {
+    text-align: center;
+    padding: 1rem 0 1rem;
+    font-weight: bold;
+    flex: 1;
+}
+
+/* section {
+    padding-bottom:3rem;
+    
+} */
+
+iframe {
+    height:10rem;
+    
+}
+
+.navbar {
+    display: none;
+}
+
+.first-section  {
+   background-image: url('/images/mainpic.jpg');
+   background-size:contain;
+   background-repeat: no-repeat;
+    height: 15rem;
+    min-width: 370px;
+     
+}
+
+.second-section {
+   
+}
+
+.second-head {
+    text-align: center;
+}
+
+.second-lessons {
+    line-height: 2;
+}
+
+
+
+
+
+
