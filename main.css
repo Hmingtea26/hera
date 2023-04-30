@@ -24,7 +24,7 @@ iframe {
    background-size:contain;
    background-repeat: no-repeat;
     height: 15rem;
-    min-width: 370px;
+    min-width: 100vw;
      
 }
 
