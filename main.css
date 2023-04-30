@@ -20,7 +20,7 @@ iframe {
 }
 
 .first-section  {
-   background-image: url('/images/mainpic.jpg');
+   background-image: url('images/mainpic.jpg');
    background-size:contain;
    background-repeat: no-repeat;
     height: 15rem;
